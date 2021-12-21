@@ -1,0 +1,9 @@
+.menu__lista {
+    display: flex;
+}
+.menu__item :last-child a{
+    margin-right: 0px;
+}
+.menu__item a:hover{
+    text-decoration: underline;
+}
